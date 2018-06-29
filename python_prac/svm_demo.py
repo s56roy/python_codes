@@ -14,5 +14,6 @@ x = np.loadtxt("~/Downloads/flowers.csv")
 
 SVM = svm();
 SVM.fit(x,y); #training
+#blah
 
 
